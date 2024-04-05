@@ -5197,13 +5197,25 @@
                 0,
                 0
             ],
+            "extensions" : {
+                "KHR_materials_specular" : {
+                    "specularColorFactor" : [
+                        0.03709090948104859,
+                        0.03709090948104859,
+                        0.03709090948104859
+                    ]
+                },
+                "KHR_materials_ior" : {
+                    "ior" : 0
+                }
+            },
             "extras" : {},
             "name" : "DefaultWhite.005",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
                     "index" : 3
                 },
-                "metallicFactor" : 0,
+                "metallicFactor" : 0.9772726893424988,
                 "roughnessFactor" : 0.6900347471237183
             }
         },
@@ -5452,9 +5464,8 @@
                     0.800000011920929,
                     0.800000011920929,
                     0.800000011920929,
-                    0.5
+                    0.06363636255264282
                 ],
-                "metallicFactor" : 0,
                 "roughnessFactor" : 0.6900347471237183
             }
         }

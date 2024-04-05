@@ -12,8 +12,8 @@
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/cameras.cfg",
-      "size": 74599,
-      "date": 133567855055617512
+      "size": 73993,
+      "date": 133568305290097040
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/cockpit.cfg",
@@ -36,24 +36,39 @@
       "date": 133567855056195964
     },
     {
+      "path": "SimObjects/Airplanes/propelascend-/model/interior.xml",
+      "size": 202,
+      "date": 133568290083293183
+    },
+    {
       "path": "SimObjects/Airplanes/propelascend-/model/model.CFG",
-      "size": 36,
-      "date": 133567879966255574
+      "size": 220,
+      "date": 133568290273115141
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/model/tecnamp2008jc.bin",
       "size": 1595022,
-      "date": 133568262752620817
+      "date": 133568277098997035
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/model/tecnamp2008jc.gltf",
-      "size": 417339,
-      "date": 133568262752680673
+      "size": 417349,
+      "date": 133568277099046902
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/model/tecnamp2008jc.xml",
       "size": 193,
-      "date": 133568260327288456
+      "date": 133568276193074504
+    },
+    {
+      "path": "SimObjects/Airplanes/propelascend-/model/tecnamp2008jc_interior.bin",
+      "size": 9732,
+      "date": 133568291574049920
+    },
+    {
+      "path": "SimObjects/Airplanes/propelascend-/model/tecnamp2008jc_interior.gltf",
+      "size": 15905,
+      "date": 133568291574129709
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/panel/panel.cfg",
@@ -78,152 +93,152 @@
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/AI.PNG.DDS",
       "size": 87528,
-      "date": 133568260344478775
+      "date": 133568276198889320
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/AI.PNG.DDS.json",
       "size": 102,
-      "date": 133568260344478775
+      "date": 133568276198889320
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/ALT.PNG.DDS",
       "size": 43832,
-      "date": 133568260345845126
+      "date": 133568276199617378
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/ALT.PNG.DDS.json",
       "size": 102,
-      "date": 133568260345845126
+      "date": 133568276199617378
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/ALT_TAPE.PNG.DDS",
       "size": 350352,
-      "date": 133568260344787959
+      "date": 133568276199028951
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/ALT_TAPE.PNG.DDS.json",
       "size": 119,
-      "date": 133568260344787959
+      "date": 133568276199028951
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/ASI.PNG.DDS",
       "size": 43832,
-      "date": 133568260345989841
+      "date": 133568276199727077
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/ASI.PNG.DDS.json",
       "size": 102,
-      "date": 133568260345989841
+      "date": 133568276199727077
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/ASI_TAPE.PNG.DDS",
       "size": 349840,
-      "date": 133568260345057228
+      "date": 133568276199148626
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/ASI_TAPE.PNG.DDS.json",
       "size": 119,
-      "date": 133568260345057228
+      "date": 133568276199148626
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/ATTITUDE_INDICATOR.PNG.DDS",
       "size": 699192,
-      "date": 133568260343217062
+      "date": 133568290083741977
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/ATTITUDE_INDICATOR.PNG.DDS.json",
       "size": 102,
-      "date": 133568260343217062
+      "date": 133568290083741977
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/INTERIOR.PNG.DDS",
       "size": 699192,
-      "date": 133568260346318975
+      "date": 133568276199826811
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/INTERIOR.PNG.DDS.json",
       "size": 102,
-      "date": 133568260346318975
+      "date": 133568276199826811
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/MAP.PNG.DDS",
       "size": 174904,
-      "date": 133568260346747809
+      "date": 133568276199936523
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/MAP.PNG.DDS.json",
       "size": 102,
-      "date": 133568260346747809
+      "date": 133568276199936523
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/MFD.PNG.DDS",
       "size": 349704,
-      "date": 133568260345725447
+      "date": 133568276199487724
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/MFD.PNG.DDS.json",
       "size": 102,
-      "date": 133568260345725447
+      "date": 133568276199487724
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/PANEL.PNG.DDS",
       "size": 87528,
-      "date": 133568260347032158
+      "date": 133568276200066172
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/PANEL.PNG.DDS.json",
       "size": 102,
-      "date": 133568260347032158
+      "date": 133568276200066172
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/PFD.PNG.DDS",
       "size": 349704,
-      "date": 133568260343426505
+      "date": 133568290083702084
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/PFD.PNG.DDS.json",
       "size": 102,
-      "date": 133568260343426505
+      "date": 133568290083702084
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/PITCHSCALE.PNG.DDS",
       "size": 1398256,
-      "date": 133568260343625970
+      "date": 133568290083722030
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/PITCHSCALE.PNG.DDS.json",
       "size": 119,
-      "date": 133568260343625970
+      "date": 133568290083722030
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/SEAT.PNG.DDS",
       "size": 87528,
-      "date": 133568260345336482
+      "date": 133568276199278280
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/SEAT.PNG.DDS.json",
       "size": 102,
-      "date": 133568260345336482
+      "date": 133568276199278280
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/SWITCH.PNG.DDS",
       "size": 11064,
-      "date": 133568260345565872
+      "date": 133568276199378016
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/SWITCH.PNG.DDS.json",
       "size": 102,
-      "date": 133568260345565872
+      "date": 133568276199378016
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/TEXTURE.PNG.DDS",
       "size": 699192,
-      "date": 133568260344059897
+      "date": 133568276198779612
     },
     {
       "path": "SimObjects/Airplanes/propelascend-/texture/TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 133568260344059897
+      "date": 133568276198779612
     }
   ]
 }

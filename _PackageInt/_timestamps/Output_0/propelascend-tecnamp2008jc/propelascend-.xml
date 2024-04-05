@@ -1,32 +1,35 @@
 <Timestamps>
 	<Entry Path="cockpit.cfg" Timestamp="13356785505"/>
-	<Entry Path="model\tecnamp2008jc.xml" Timestamp="13356826032"/>
+	<Entry Path="model\tecnamp2008jc.xml" Timestamp="13356827619"/>
 	<Entry Path="gameplay.cfg" Timestamp="13356785505"/>
 	<Entry Path="flight_model.cfg" Timestamp="13356785505"/>
-	<Entry Path="texture\mfd.png" Timestamp="13356826034"/>
-	<Entry Path="texture\switch.png" Timestamp="13356826034"/>
-	<Entry Path="texture\attitude_indicator.png" Timestamp="13356826034"/>
-	<Entry Path="model\tecnamp2008jc.bin" Timestamp="13356826034"/>
-	<Entry Path="cameras.cfg" Timestamp="13356785505"/>
+	<Entry Path="texture\mfd.png" Timestamp="13356827619"/>
+	<Entry Path="texture\switch.png" Timestamp="13356827619"/>
+	<Entry Path="texture\attitude_indicator.png" Timestamp="13356829008"/>
+	<Entry Path="model\tecnamp2008jc.bin" Timestamp="13356827619"/>
+	<Entry Path="cameras.cfg" Timestamp="13356830529"/>
 	<Entry Path="systems.cfg" Timestamp="13356785505"/>
-	<Entry Path="texture\asi_tape.png" Timestamp="13356826034"/>
+	<Entry Path="model\tecnamp2008jc_interior.gltf" Timestamp="13356829008"/>
+	<Entry Path="texture\asi_tape.png" Timestamp="13356827619"/>
 	<Entry Path="aircraft.cfg" Timestamp="13356791980"/>
-	<Entry Path="texture\map.png" Timestamp="13356826034"/>
+	<Entry Path="texture\map.png" Timestamp="13356827619"/>
+	<Entry Path="model\tecnamp2008jc_interior.bin" Timestamp="13356829008"/>
 	<Entry Path="soundai\soundai.xml" Timestamp="13356785505"/>
 	<Entry Path="engines.cfg" Timestamp="13356785505"/>
-	<Entry Path="texture\texture.png" Timestamp="13356826034"/>
-	<Entry Path="texture\panel.png" Timestamp="13356826034"/>
+	<Entry Path="texture\texture.png" Timestamp="13356827619"/>
+	<Entry Path="texture\panel.png" Timestamp="13356827620"/>
 	<Entry Path="panel\panel.cfg" Timestamp="13356785505"/>
-	<Entry Path="texture\alt_tape.png" Timestamp="13356826034"/>
-	<Entry Path="texture\pfd.png" Timestamp="13356826034"/>
-	<Entry Path="texture\asi.png" Timestamp="13356826034"/>
-	<Entry Path="texture\ai.png" Timestamp="13356826034"/>
-	<Entry Path="texture\Seat.png" Timestamp="13356826034"/>
-	<Entry Path="texture\interior.png" Timestamp="13356826034"/>
-	<Entry Path="model\model.CFG" Timestamp="13356787996"/>
+	<Entry Path="texture\alt_tape.png" Timestamp="13356827619"/>
+	<Entry Path="texture\pfd.png" Timestamp="13356829008"/>
+	<Entry Path="texture\asi.png" Timestamp="13356827619"/>
+	<Entry Path="texture\ai.png" Timestamp="13356827619"/>
+	<Entry Path="texture\Seat.png" Timestamp="13356827619"/>
+	<Entry Path="texture\interior.png" Timestamp="13356827619"/>
+	<Entry Path="model\interior.xml" Timestamp="13356829008"/>
+	<Entry Path="model\model.CFG" Timestamp="13356829027"/>
 	<Entry Path="sound\sound.xml" Timestamp="13356785505"/>
-	<Entry Path="texture\alt.png" Timestamp="13356826034"/>
-	<Entry Path="model\tecnamp2008jc.gltf" Timestamp="13356826034"/>
-	<Entry Path="texture\pitchscale.png" Timestamp="13356826034"/>
+	<Entry Path="texture\alt.png" Timestamp="13356827619"/>
+	<Entry Path="model\tecnamp2008jc.gltf" Timestamp="13356827620"/>
+	<Entry Path="texture\pitchscale.png" Timestamp="13356829008"/>
 </Timestamps>
 

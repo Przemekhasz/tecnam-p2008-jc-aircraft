@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="{faf9edfe-837f-4735-b990-ec0c833a6bb0}" version="1.1">
+	<LODS>
+		<LOD minSize="0" ModelFile="tecnamp2008jc_interior.gltf"/>
+	</LODS>
+</ModelInfo>

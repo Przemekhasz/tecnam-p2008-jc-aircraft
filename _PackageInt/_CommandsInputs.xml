@@ -124,6 +124,11 @@
 			<AssetGroup Name="propelascend-"/>
 		</Package>
 	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\model\tecnamp2008jc_interior.bin" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
 	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\texture\asi_tape.png" Failure="0">
 		<Package Name="propelascend-tecnamp2008jc" Failure="0">
 			<AssetGroup Name="propelascend-"/>
@@ -139,12 +144,22 @@
 			<AssetGroup Name="propelascend-"/>
 		</Package>
 	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\model\interior.xml" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
 	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\cockpit.cfg" Failure="0">
 		<Package Name="propelascend-tecnamp2008jc" Failure="0">
 			<AssetGroup Name="propelascend-"/>
 		</Package>
 	</File>
 	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\model\tecnamp2008jc.gltf" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\model\tecnamp2008jc_interior.gltf" Failure="0">
 		<Package Name="propelascend-tecnamp2008jc" Failure="0">
 			<AssetGroup Name="propelascend-"/>
 		</Package>
