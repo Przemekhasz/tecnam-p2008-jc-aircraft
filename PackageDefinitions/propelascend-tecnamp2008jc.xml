@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="0.1.0">
+	<ItemSettings>
+		<ContentType>AIRCRAFT</ContentType>
+		<Title>tecnamp2008jc</Title>
+		<Manufacturer>Tecnam P2008 JC</Manufacturer>
+		<Creator>przemekhash</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\propelascend-tecnamp2008jc\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\propelascend-tecnamp2008jc\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="propelascend-">
+			<Type>SimObject</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\SimObjects\Airplanes\propelascend-\</AssetDir>
+			<OutputDir>SimObjects\Airplanes\propelascend-\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

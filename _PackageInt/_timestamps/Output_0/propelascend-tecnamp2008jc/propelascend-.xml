@@ -1,0 +1,34 @@
+<Timestamps>
+	<Entry Path="cockpit.cfg" Timestamp="13356785505"/>
+	<Entry Path="texture\None_baseColor.png" Timestamp="13356790547"/>
+	<Entry Path="model\tecnamp2008jc.xml" Timestamp="13356791648"/>
+	<Entry Path="texture\DefaultWhite_baseColor.png" Timestamp="13356790547"/>
+	<Entry Path="texture\DefaultWhite_ai_png_baseColor.png" Timestamp="13356790547"/>
+	<Entry Path="gameplay.cfg" Timestamp="13356785505"/>
+	<Entry Path="flight_model.cfg" Timestamp="13356785505"/>
+	<Entry Path="texture\DefaultWhite_mfd_png_baseColor.png" Timestamp="13356790547"/>
+	<Entry Path="texture\thumbnail.JPG" Timestamp="13356788261"/>
+	<Entry Path="model\tecnamp2008jc.bin" Timestamp="13356791649"/>
+	<Entry Path="cameras.cfg" Timestamp="13356785505"/>
+	<Entry Path="systems.cfg" Timestamp="13356785505"/>
+	<Entry Path="texture\None_pitchscale_png_baseColor.png" Timestamp="13356790547"/>
+	<Entry Path="aircraft.cfg" Timestamp="13356791980"/>
+	<Entry Path="texture\DefaultWhite_pfd_png_baseColor.png" Timestamp="13356790547"/>
+	<Entry Path="soundai\soundai.xml" Timestamp="13356785505"/>
+	<Entry Path="engines.cfg" Timestamp="13356785505"/>
+	<Entry Path="texture\None_alt_tape_png_baseColor.png" Timestamp="13356790547"/>
+	<Entry Path="panel\panel.cfg" Timestamp="13356785505"/>
+	<Entry Path="texture\thumbnail_small.JPG" Timestamp="13356785505"/>
+	<Entry Path="texture\DefaultWhite_switch_png_baseColor.png" Timestamp="13356790547"/>
+	<Entry Path="texture\DefaultWhite_map_png_baseColor.png" Timestamp="13356790547"/>
+	<Entry Path="texture\DefaultWhite_attitude_indicator_png_baseColor.png" Timestamp="13356790547"/>
+	<Entry Path="texture\DefaultWhite_interior_png_baseColor.png" Timestamp="13356790547"/>
+	<Entry Path="texture\DefaultWhite_Seat_png_baseColor.png" Timestamp="13356790547"/>
+	<Entry Path="texture\DefaultWhite_asi_png_baseColor.png" Timestamp="13356790547"/>
+	<Entry Path="texture\DefaultWhite_alt_png_baseColor.png" Timestamp="13356790547"/>
+	<Entry Path="model\model.CFG" Timestamp="13356787996"/>
+	<Entry Path="sound\sound.xml" Timestamp="13356785505"/>
+	<Entry Path="model\tecnamp2008jc.gltf" Timestamp="13356791649"/>
+	<Entry Path="texture\DefaultWhite_panel_png_001_baseColor.png" Timestamp="13356790547"/>
+</Timestamps>
+

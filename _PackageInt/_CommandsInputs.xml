@@ -1,0 +1,163 @@
+<CommandsInputs>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\texture\None_pitchscale_png_baseColor.png" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\aircraft.cfg" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\model\tecnamp2008jc.bin" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageDefinitions\propelascend-tecnamp2008jc\ContentInfo\Thumbnail.jpg" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="ContentInfo"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\sound\sound.xml" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_switch_png_baseColor.png" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\model\model.CFG" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_asi_png_baseColor.png" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_alt_png_baseColor.png" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\gameplay.cfg" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_panel_png_001_baseColor.png" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_attitude_indicator_png_baseColor.png" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\engines.cfg" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_map_png_baseColor.png" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\soundai\soundai.xml" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\panel\panel.cfg" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_ai_png_baseColor.png" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\model\tecnamp2008jc.xml" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\systems.cfg" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_pfd_png_baseColor.png" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\flight_model.cfg" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\texture\thumbnail.JPG" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_baseColor.png" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\cameras.cfg" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\texture\None_baseColor.png" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_interior_png_baseColor.png" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\texture\thumbnail_small.JPG" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_mfd_png_baseColor.png" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\cockpit.cfg" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\model\tecnamp2008jc.gltf" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\texture\None_alt_tape_png_baseColor.png" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\PackageSources\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_Seat_png_baseColor.png" Failure="0">
+		<Package Name="propelascend-tecnamp2008jc" Failure="0">
+			<AssetGroup Name="propelascend-"/>
+		</Package>
+	</File>
+</CommandsInputs>
+
