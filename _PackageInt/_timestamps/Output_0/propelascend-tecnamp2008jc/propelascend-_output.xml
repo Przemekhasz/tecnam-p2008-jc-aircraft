@@ -1,49 +1,47 @@
 <Timestamps>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_asi_png_baseColor.png.DDS" Timestamp="13356790547"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\None_pitchscale_png_baseColor.png.DDS" Timestamp="13356790547"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_attitude_indicator_png_baseColor.png.DDS" Timestamp="13356790547"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_baseColor.png.DDS.json" Timestamp="13356790547"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\mfd.png.DDS.json" Timestamp="13356826034"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\mfd.png.DDS" Timestamp="13356826034"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\texture.png.DDS.json" Timestamp="13356826034"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\asi.png.DDS.json" Timestamp="13356826034"/>
 	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\panel\panel.cfg" Timestamp="13356785505"/>
 	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\soundai\soundai.xml" Timestamp="13356785505"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_map_png_baseColor.png.DDS.json" Timestamp="13356790547"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_ai_png_baseColor.png.DDS.json" Timestamp="13356790547"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\thumbnail_small.JPG" Timestamp="13356785505"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\interior.png.DDS.json" Timestamp="13356826034"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\switch.png.DDS.json" Timestamp="13356826034"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\attitude_indicator.png.DDS.json" Timestamp="13356826034"/>
 	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\gameplay.cfg" Timestamp="13356785505"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_interior_png_baseColor.png.DDS.json" Timestamp="13356790547"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\None_pitchscale_png_baseColor.png.DDS.json" Timestamp="13356790547"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\model\tecnamp2008jc.gltf" Timestamp="13356792105"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\ai.png.DDS.json" Timestamp="13356826034"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\model\tecnamp2008jc.gltf" Timestamp="13356826275"/>
 	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\model\model.CFG" Timestamp="13356787996"/>
 	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\sound\sound.xml" Timestamp="13356785505"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_attitude_indicator_png_baseColor.png.DDS.json" Timestamp="13356790547"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\Seat.png.DDS.json" Timestamp="13356826034"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\ai.png.DDS" Timestamp="13356826034"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\pfd.png.DDS.json" Timestamp="13356826034"/>
 	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\engines.cfg" Timestamp="13356785505"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\switch.png.DDS" Timestamp="13356826034"/>
 	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\aircraft.cfg" Timestamp="13356791980"/>
 	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\flight_model.cfg" Timestamp="13356785505"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_pfd_png_baseColor.png.DDS" Timestamp="13356790547"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_Seat_png_baseColor.png.DDS.json" Timestamp="13356790547"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_switch_png_baseColor.png.DDS.json" Timestamp="13356790547"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_panel_png_001_baseColor.png.DDS.json" Timestamp="13356790547"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_switch_png_baseColor.png.DDS" Timestamp="13356790547"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\None_baseColor.png.DDS.json" Timestamp="13356790547"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\asi_tape.png.DDS" Timestamp="13356826034"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\map.png.DDS" Timestamp="13356826034"/>
 	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\systems.cfg" Timestamp="13356785505"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_pfd_png_baseColor.png.DDS.json" Timestamp="13356790547"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_mfd_png_baseColor.png.DDS.json" Timestamp="13356790547"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\model\tecnamp2008jc.bin" Timestamp="13356792105"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\None_alt_tape_png_baseColor.png.DDS" Timestamp="13356790547"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_baseColor.png.DDS" Timestamp="13356790547"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_map_png_baseColor.png.DDS" Timestamp="13356790547"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_ai_png_baseColor.png.DDS" Timestamp="13356790547"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_interior_png_baseColor.png.DDS" Timestamp="13356790547"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\texture.png.DDS" Timestamp="13356826034"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\alt.png.DDS.json" Timestamp="13356826034"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\asi_tape.png.DDS.json" Timestamp="13356826034"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\model\tecnamp2008jc.bin" Timestamp="13356826275"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\alt_tape.png.DDS.json" Timestamp="13356826034"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\pfd.png.DDS" Timestamp="13356826034"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\pitchscale.png.DDS" Timestamp="13356826034"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\panel.png.DDS" Timestamp="13356826034"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\map.png.DDS.json" Timestamp="13356826034"/>
 	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\cameras.cfg" Timestamp="13356785505"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\None_baseColor.png.DDS" Timestamp="13356790547"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_alt_png_baseColor.png.DDS.json" Timestamp="13356790547"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\model\tecnamp2008jc.xml" Timestamp="13356791648"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_asi_png_baseColor.png.DDS.json" Timestamp="13356790547"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\None_alt_tape_png_baseColor.png.DDS.json" Timestamp="13356790547"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_alt_png_baseColor.png.DDS" Timestamp="13356790547"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\panel.png.DDS.json" Timestamp="13356826034"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\asi.png.DDS" Timestamp="13356826034"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\pitchscale.png.DDS.json" Timestamp="13356826034"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\model\tecnamp2008jc.xml" Timestamp="13356826032"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\attitude_indicator.png.DDS" Timestamp="13356826034"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\alt.png.DDS" Timestamp="13356826034"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\Seat.png.DDS" Timestamp="13356826034"/>
 	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\cockpit.cfg" Timestamp="13356785505"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_mfd_png_baseColor.png.DDS" Timestamp="13356790547"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\thumbnail.JPG" Timestamp="13356788261"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_Seat_png_baseColor.png.DDS" Timestamp="13356790547"/>
-	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\DefaultWhite_panel_png_001_baseColor.png.DDS" Timestamp="13356790547"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\interior.png.DDS" Timestamp="13356826034"/>
+	<Entry Path="C:\Users\tarap\Documents\MyFSProjects\tecnamp2008jc\Packages\propelascend-tecnamp2008jc\SimObjects\Airplanes\propelascend-\texture\alt_tape.png.DDS" Timestamp="13356826034"/>
 </Timestamps>
 
